@@ -503,6 +503,34 @@ img {
   width: 90%;
 }
 
+.skills-container .skills-ninety {
+  width: 90%;
+}
+
+.skills-container .skills-ninety-five {
+  width: 95%;
+}
+
+.skills-container .skills-eighty {
+  width: 80%;
+}
+
+.skills-container .skills-eighty-five {
+  width: 85%;
+}
+
+.skills-container .skills-seventy {
+  width: 70%;
+}
+
+.skills-container .skills-seventy-five {
+  width: 75%;
+}
+
+.skills-container .skills-sixty {
+  width: 60%;
+}
+
 .skills-container .skills-css {
   width: 80%;
 }
